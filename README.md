@@ -1,7 +1,6 @@
 # business_card_app
 
-A new Flutter project.
-
+this a simple flutter project that apply a ui design of a business card
 ## Getting Started
 
 This project is a starting point for a Flutter application.
